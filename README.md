@@ -1,6 +1,6 @@
 # Weather App
 
-> An app that gets the current temperature and weather conditions of your current location
+> An app that gets the current temperature and weather conditions of your current location, inspired by freecode academy
 
 
 ## Live Demo
